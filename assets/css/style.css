@@ -188,12 +188,12 @@ body {
 .rit-cover .rit-titl {
   padding: 10px;
   border-bottom: 2px solid #CCC;
-  font-size: 1.1rem; }
+  font-size: 1.3rem; }
   .rit-cover .rit-titl i {
-    font-size: 18px;
+    font-size: 20px;
     margin-right: 5px; }
 .rit-cover .about {
-  font-size: .9rem;
+  font-size: 1rem;
   text-align: justify;
   text-indent: 15px;
   padding: 5px 0px; }
@@ -219,17 +219,17 @@ body {
 .rit-cover .work-exp {
   padding: 5px 0px; }
   .rit-cover .work-exp h6 {
-    font-size: .9rem;
+    font-size: 1rem;
     margin-bottom: 0px; }
     .rit-cover .work-exp h6 span {
       float: right;
-      font-size: .8rem; }
+      font-size: .9rem; }
   .rit-cover .work-exp i {
-    font-size: .9rem; }
+    font-size: 1rem; }
   .rit-cover .work-exp ul {
     padding: 5px 0px; }
     .rit-cover .work-exp ul li {
-      font-size: .9rem;
+      font-size: 1rem;
       padding-left: 5px; }
       .rit-cover .work-exp ul li i {
         margin-right: 5px; }
@@ -242,14 +242,14 @@ body {
     padding: 10px 15px;
     font-size: .9rem; }
     .rit-cover .education ul li span {
-      font-size: .8rem; }
+      font-size: 1rem; }
 .rit-cover .profess-cover {
   padding: 20px 0px; }
   .rit-cover .profess-cover .prog-row {
     width: 100%;
     text-align: left;
     padding: 8px 2px;
-    font-size: .9rem; }
+    font-size: 1rem; }
     .rit-cover .profess-cover .prog-row div {
       padding: 0px; }
   .rit-cover .profess-cover .progress-bar {
